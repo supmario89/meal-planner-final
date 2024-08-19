@@ -15,10 +15,10 @@ class EmailManager:
         Email address of the recipient.
     """
 
-    SENDER = 'python.tester1989@gmail.com'
-    PASSWORD = "eqcu xsvd shcu znnt"
-    # RECIEVER = 'python.tester1989@gmail.com'
-    RECIEVER = 'supmario89@gmail.com'
+    SENDER = {'Enter Sender Email'}
+    PASSWORD = {'Enter Password for Sender (use app pass)'}
+
+    RECIEVER = {'Enter Receiver email'}
 
     @staticmethod
     def send_email(subject, content):
