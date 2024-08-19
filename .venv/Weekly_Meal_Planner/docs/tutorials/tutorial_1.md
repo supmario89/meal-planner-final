@@ -12,7 +12,7 @@ This tutorial walks you through setting up the Weekly Meal Planner on your local
 
 
 Update csv and instructions
-    Add images url, must be public facing
+    Add images url (must be public facing)
 
 Update email address for sender 
     Add password generated for an app from email
